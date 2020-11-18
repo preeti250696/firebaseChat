@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-chat-fb344": {
+      "hosting": {
+        "app": [
+          "fir-chat-fb344"
+        ]
+      }
+    }
+  }
+}
